@@ -1,0 +1,11 @@
+name: Tutorial
+version: '${version}'
+main: me.expentled.tutorial.Tutorial
+api-version: 1.19
+authors: [ Expentled ]
+description: A tutorial plugin for YouTube
+
+commands:
+  hello:
+    description: A hello command
+    aliases: [ test ]
