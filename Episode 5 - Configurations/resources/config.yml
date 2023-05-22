@@ -1,0 +1,8 @@
+heading:
+  name: 'test'
+  value: 8
+  enabled: true
+  list:
+    - 'test'
+    - 'testing'
+    - 'tester'
