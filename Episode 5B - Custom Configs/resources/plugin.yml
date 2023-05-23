@@ -1,0 +1,12 @@
+name: Tutorial
+version: '${version}'
+main: me.expentled.tutorial.Tutorial
+api-version: 1.19
+authors: [ Expentled ]
+description: A tutorial plugin for YouTube
+
+commands:
+  message:
+    description: Sends the message from the config
+  tutorial:
+    description: Manages the plugin
